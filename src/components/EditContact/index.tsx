@@ -73,7 +73,7 @@ export function EditContact() {
           type='email'
           placeholder='E-mail'
         />
-        <S.Button type='submit'>Submit</S.Button>
+        <S.Button type='submit'>Salvar</S.Button>
       </S.FormContats>
     </S.Container>
   )
